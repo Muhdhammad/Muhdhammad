@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hi there! 👋
 
+I’m Hammad, an aspiring machine-learning engineer and student based in Pakistan.
+
+I love building models, experimenting with new ideas, and turning papers into code (that occasionally works).
+Open to opportunities & collaborations. Feel free to connect!
+
+**Fun fact:** I like reading fiction.
 <!--
 **Muhdhammad/Muhdhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
